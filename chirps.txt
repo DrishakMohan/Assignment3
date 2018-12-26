@@ -1,0 +1,41 @@
+100000
+400
+Does not want to build a %SnowMan %StopAsking
+SnowMan, StopAsking
+100, 200, 300
+400, 500
+
+100001
+200
+Make the ocean great again.
+
+
+400
+
+100002
+500
+Help I'm being held captive by a beast!  %OhNoes
+OhNoes
+400
+100, 200, 300
+
+100003
+500
+Actually nm. This isn't so bad lolz :P %StockholmeSyndrome
+StockholmeSyndrome
+400, 100
+
+
+100004
+300
+If some random dude offers to %ShowYouTheWorld do yourself a favour and %JustSayNo.
+ShowYouTheWorld, JustSayNo
+500, 200
+400
+
+100005
+400
+LOLZ BELLE.  %StockholmeSyndrome  %SnowMan
+StockholmeSyndrome, SnowMan
+
+200, 300, 100, 500
